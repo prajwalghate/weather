@@ -1,6 +1,9 @@
 # Weather app UI in React-Native [2021]
 # By Prajwal Ghate
 
+# Demo Video
+<img width="200" alt="portfolio_view" src="/demo.gif">
+
 Youtube Tutorial Link : 
 
 # How to run the app ?
